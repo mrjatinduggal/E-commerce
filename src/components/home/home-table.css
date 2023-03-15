@@ -1,0 +1,12 @@
+.table-parent {
+  border: 2px solid black;
+}
+
+tr {
+  text-align: center;
+}
+
+th,
+td {
+  width: 33%;
+}

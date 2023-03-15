@@ -1,0 +1,23 @@
+.home-table {
+  margin: auto;
+  width: 80%;
+  padding-top: 20px;
+}
+
+.checkout-button {
+  position: relative;
+  left: 73%;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-image: url(../../../public/background.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
